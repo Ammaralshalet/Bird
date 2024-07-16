@@ -12,6 +12,6 @@ class Bird {
   @HiveField(1)
   String family;
 
-  @HiveField(3)
+  @HiveField(2)
   String image;
 }
